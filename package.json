@@ -17,8 +17,7 @@
     "node-cron": "latest",
     "node-opus": "latest",
     "opusscript": "latest",
-    "topgg": "latest",
-    "ytdl-core": "latest"
+
   },
 
   "scripts": {

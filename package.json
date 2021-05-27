@@ -16,8 +16,7 @@
     "libsodium-wrappers": "latest",
     "node-cron": "latest",
     "node-opus": "latest",
-    "opusscript": "latest",
-
+    "opusscript": "latest"
   },
 
   "scripts": {
